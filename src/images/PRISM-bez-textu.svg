@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Vrstva_2" data-name="Vrstva 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 177.522 204.985">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #0d0015;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 5.928px;
+      }
+
+      .cls-2 {
+        stroke: url(#Nepojmenovaný_přechod_293-2);
+      }
+
+      .cls-3 {
+        stroke: url(#Nepojmenovaný_přechod_293);
+      }
+    </style>
+    <linearGradient id="Nepojmenovaný_přechod_293" data-name="Nepojmenovaný přechod 293" x1=".949" y1="102.493" x2="73.033" y2="102.493" gradientUnits="userSpaceOnUse">
+      <stop offset=".123" stop-color="#0d0015"/>
+      <stop offset=".994" stop-color="#c555ff"/>
+    </linearGradient>
+    <linearGradient id="Nepojmenovaný_přechod_293-2" data-name="Nepojmenovaný přechod 293" x1="-68.899" y1="102.493" x2="3.185" y2="102.493" gradientTransform="translate(107.675) rotate(-180) scale(1 -1)" xlink:href="#Nepojmenovaný_přechod_293"/>
+  </defs>
+  <g>
+    <polyline class="cls-3" points="2.364 52.611 69.084 102.493 2.364 152.374"/>
+    <polyline class="cls-2" points="175.158 52.611 108.438 102.493 175.158 152.374"/>
+  </g>
+  <g>
+    <polygon class="cls-1" points="2.364 52.611 2.364 152.374 88.761 202.255 175.158 152.374 175.158 52.611 88.761 2.73 2.364 52.611"/>
+    <line class="cls-1" x1="88.761" y1="2.73" x2="88.761" y2="202.255"/>
+    <line class="cls-1" x1="2.364" y1="102.493" x2="88.761" y2="152.374"/>
+    <line class="cls-1" x1="88.761" y1="52.611" x2="2.364" y2="102.493"/>
+    <line class="cls-1" x1="175.158" y1="102.493" x2="88.761" y2="152.374"/>
+    <line class="cls-1" x1="88.761" y1="52.611" x2="175.158" y2="102.493"/>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+.font {
+    font-family: "futura-pt", "Futura PT", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #0D0015;
+}
+
+
+.w40{
+    width: 40px;
+}
+
+
+.pozadi-main {
+    background-color: rgba(163, 73, 242, 0.3);
+}
+
+.pozadi-sec {
+    background-color: rgba(163, 73, 242, 0.2);
+}
+
+.bg-pozadi {
+    background-color: #FAF4FA;
+}
+
+.pozadi-fialova{
+    background-color: #0D0015;
+}
+
+.text-fialova {
+    color: #0D0015;
+}
+
+.bg-fialova{
+    background-color:  #0D0015 ;
+}
+
+.scroll {
+    color:rgba(163, 73, 242, 0.3);
+}
+
+.scroll:hover {
+    color: #0d0015;
+}
+
+
+
+
+
+.hlavni-nadpis {
+    font-size: 100px;
+}
+
+@media only screen and (max-width: 800px) {
+    .hlavni-nadpis {
+        font-size: 50px;
+    }
+}
