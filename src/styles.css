@@ -5,14 +5,25 @@
     color: #0D0015;
 }
 
+::placeholder { text-align: center; }
 
+.kulaty{
+    border-radius: 100vw;
+}
+
+.tab{
+    color: #777777;
+}
 .w40{
     width: 40px;
 }
 
-
 .pozadi-main {
     background-color: rgba(163, 73, 242, 0.3);
+}
+
+.produkt{
+    background-color: #FAF4FA;
 }
 
 .pozadi-sec {
@@ -42,9 +53,6 @@
 .scroll:hover {
     color: #0d0015;
 }
-
-
-
 
 
 .hlavni-nadpis {
